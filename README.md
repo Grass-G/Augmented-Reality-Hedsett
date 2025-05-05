@@ -1,4 +1,8 @@
 # Augmented-Reality-Hedsett
+Name :Samrat Singh , X G
+Euroschool whitefeild Teen interns project
+
+
 Note: This is not the final version as some features that i added arent working as expected and will fix them later, here "headset" is reffering to a google cardboard Hedset running android. THIS PROJECT IS CURRENT UNFINISHED. PARTS OF THE CODE IS AI GENERATED.
 Prerequsites: You must have deepseek-r1:7b installed via ollama and have stleast a 8GB graphics card stpporting CUDA, 
               Have a hedset's camera streaming locally as a IP camera (http://192.168.1.8:4747/) or modify the code according the the IP assigned.
