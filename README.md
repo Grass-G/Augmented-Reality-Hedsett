@@ -1,6 +1,6 @@
-# Augmented-Reality-Hedsett
+# Augmented-Reality-Hedset
 Name :Samrat Singh , X G
-Euroschool whitefeild Teen interns project
+Euroschool White field Teen interns project
 
 
 Note: This is not the final version as some features that i added arent working as expected and will fix them later, here "headset" is reffering to a google cardboard Hedset running android. THIS PROJECT IS CURRENT UNFINISHED. PARTS OF THE CODE IS AI GENERATED.
