@@ -40,7 +40,7 @@ Features:
 
 Upcoming features:
 -Zoom in and Zoom Out functions without worsening the quality
-     -As the stream is alr manually limited to 480x640 zooming from in would worsen the quaity.
+     -As the stream is alr manually limited to 480x640(to reduce latency)  zooming from in would worsen the quaity.
      -However i have a 1920x1080p camera on the headset , and the ip cam software has zoom in and zoom out functions as buttons on the cam's webpage http://192.168.1.8:4747/ .
      -But i would need to learn more about HTTP get requests to trigger those buttons via python.
      -And i would need a means of input (solved by the next feature).
