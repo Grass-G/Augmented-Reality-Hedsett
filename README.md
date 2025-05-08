@@ -34,7 +34,7 @@ Note that it says no object detected as nothing is on the crosshair at the momen
 Features:
 -Has a integrated 8Billion Parameter LLM providing descriptions of objects its looking at (on corsshair)
 -Uses computer vison via cv2 python lib and usses any ip camera to get its video stream
--Uses a pretrained model to detect objects(i plan on using a heavier model later this project is still in it early stages (I have been wanting to build someting like this project for a while now and the internshit gave me a reason to work on it)
+-Uses a pretrained model to detect objects(i plan on using a heavier model later this project is still in it early stages (I have been wanting to build someting like this project for a while now and the internship gave me a reason to work on it)
 -Time , fps , latency present in a HUD 
 -Providing realtime descriptions of objects via a prompt that is forwarded to the LLM ( "Describe '{object_name}' in 25 words. Be technical and concise." )
 
