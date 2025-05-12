@@ -6,7 +6,7 @@ Euroschool White field Teen interns project
 Note: This is not the final version as some features that i added arent working as expected and will fix them later, here "headset" is reffering to a google cardboard Hedset running android. THIS PROJECT IS CURRENT UNFINISHED. PARTS OF THE CODE IS AI GENERATED.
 Prerequsites: You must have deepseek-r1:7b installed via ollama and have stleast a 8GB graphics card stpporting CUDA, 
               Have a hedset's camera streaming locally as a IP camera (http://192.168.1.8:4747/) or modify the code according the the IP assigned.
-              Have a webpage open on the headset (http://192.168.1.3:5000) to recive the stream
+              Have a webpage open on the headset (http://192.168.1.3:5000) to recive the stream.
               Have CUDA 11.8 installed.
               Have Python 3.11+ installed.
               Install the ibraries mentioned in the code.
