@@ -27,7 +27,7 @@ How it works:
 Demo:  
 ![image](https://github.com/user-attachments/assets/ac56e92c-f4e4-4a48-95db-3336a6fafa7e)
 ![image](https://github.com/user-attachments/assets/c8048f65-3b66-4e90-a547-e761b123a846)
-Here is the demo video : https://drive.google.com/file/d/1_GzHdImjZcgdDLb4DM1guD52HgbHRWAi/view?usp=sharing
+Here is the demo video : https://drive.google.com/file/d/1InSyuAvONkdSp3QhOGvEA3hqW1AKppRw/view?usp=sharing
 Note that it says no object detected as nothing is on the crosshair at the moment. The second ss is what is ebing displayed on the hedset
 
 
